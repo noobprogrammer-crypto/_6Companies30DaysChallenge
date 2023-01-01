@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d81aa99-7837-44ba-8c15-b07253b272de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CombinationSumI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Microsoft/EvaluateRPN.java" afterDir="false" />
+    <list default="true" id="8d81aa99-7837-44ba-8c15-b07253b272de" name="Changes" comment="updated work for day 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Microsoft/SumOfN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Microsoft/CombinationSumI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Microsoft/CombinationSumI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +46,14 @@
       <option name="presentableId" value="Default" />
       <updated>1672481680317</updated>
     </task>
+    <task id="LOCAL-00001" summary="updated work for day 1">
+      <created>1672581338240</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672581338240</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -60,5 +66,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated work for day 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated work for day 1" />
   </component>
 </project>
